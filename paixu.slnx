@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="paixu.vcxproj" Id="4b780eb6-5d9f-475a-af92-3b487c86f3f8" />
+</Solution>
