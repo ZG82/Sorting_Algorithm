@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="date.txt" />
+    <Text Include="text.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">

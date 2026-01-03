@@ -23,6 +23,9 @@
     <Text Include="date.txt">
       <Filter>源文件</Filter>
     </Text>
+    <Text Include="text.txt">
+      <Filter>源文件</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
